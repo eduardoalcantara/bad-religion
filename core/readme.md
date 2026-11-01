@@ -23,12 +23,20 @@ Governança do repositório (raiz: `spec-*`, `rules*`, `flow.md`, `AGENTS.md`), 
 
 | Domínio | Subpastas possíveis |
 |---|---|
+| Filosofia / Argumentação (este projeto) | `falacias-religiosas/`, `psicologia-e-fisiologia/`, `ciencia-e-origem-da-vida/`, `dialogos-e-reflexoes/` |
 | Software (app único) | `src/`, `tests/`, `api/`, `packages/`, scripts de build/run/installer |
 | Software multi-produto | ver spec opt-in `specs/optional/software-multi-produto.md` → `shared/`, `db/`, `api/`, `web/`, `mobile/` |
 | Hardware | `cad/`, `bom/`, `schematics/`, `firmware/` |
 | Sistema operacional | `profiles/`, `policies/`, `services/` |
 | Impressão 3D | `models/`, `slicing/`, `materials/` |
 | Híbrido | combinação das acima |
+
+## Estrutura Atual de `/core`
+
+1. `falacias-religiosas/`: Análise e estratégias de desmonte lógico das falácias apologéticas e teístas recorrentes.
+2. `psicologia-e-fisiologia/`: Investigação biológica e neuroevolutiva da busca por propósito e pertencimento tribal como manifestações do instinto de sobrevivência.
+3. `ciencia-e-origem-da-vida/`: Fundamentação da hipótese química da abiogênese, a teoria do gene egoísta e desconstrução do design inteligente.
+4. `dialogos-e-reflexoes/`: Reflexões autorais, analogias do cotidiano (Papai Noel/folclore, Fé por GPS) e técnicas de diálogo reflexivo com crentes.
 
 ## Regra
 

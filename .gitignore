@@ -63,6 +63,7 @@ htmlcov/
 # Artefatos locais do projeto
 *.local
 .local/
+*.pdf
 
 # .prompt-status está desativado. Se um arquivo local sobrar, não versionar.
 .prompt-status
