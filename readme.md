@@ -1,17 +1,15 @@
-# [NOME DO PROJETO]
+# Sobre a religião, o gene, os instintos e a covardia humana
 
-> Template universal de repositório para projetos implementados com Cursor IDE.
+> Repositório de construção de argumentos ateus para desmontar argumentos religiosos.
 
 ## Resumo
 
-Este repositório é a fundação documental e operacional para novos projetos. Ele padroniza estrutura, governança, fluxo do agente e o núcleo do produto em `/core`. Novos repositórios nascem pelo GitHub (**Use this template**).
-
-Substitua os placeholders `[NOME DO PROJETO]`, `[RESUMO]`, `[PÚBLICO]` e demais marcações ao iniciar um projeto real a partir deste template.
+Repositório estruturado para análise crítica da religião sob as perspectivas da genética evolutiva, dos instintos humanos e das dinâmicas psicológicas e comportamentais da covardia e busca por conforto existencial, servindo de base para a construção de argumentos ateus e desmontagem de teses religiosas/apologéticas.
 
 ## Público e objetivo
 
-- **Público:** pessoas e agentes que criam e mantêm projetos no Cursor.
-- **Objetivo:** nascer com contexto suficiente para o Cursor trabalhar com consistência desde o primeiro prompt.
+- **Público:** Pessoas interessadas em ceticismo, ateísmo, biologia evolutiva, psicologia comportamental e debate racional contra apologética religiosa.
+- **Objetivo:** Organizar referências, dados e construções argumentativas sólidas para desmontar argumentos religiosos.
 
 ## Estrutura de alto nível
 
@@ -24,7 +22,7 @@ Substitua os placeholders `[NOME DO PROJETO]`, `[RESUMO]`, `[PÚBLICO]` e demais
 | `rules.md` | Governança permanente, inclusive fronteira script de repo vs script de produto |
 | `software-development-rules.md` | SOLID, DI e padrões (só se o repo for software/sistemas) |
 | `flow.md` | Ordem de leitura e execução |
-| `status.md` / `timeline.md` | Estado e histórico do projeto derivado (vazios no template) |
+| `status.md` / `timeline.md` | Estado e histórico do projeto |
 | `setup.md` / `tools-*.md` | Ambiente e ferramentas |
 | `specs/` | Especificações formais (`to-do/`, `done/`, `optional/`) |
 | `scripts/validation/min-tree.txt` | Única lista da árvore mínima |
@@ -38,10 +36,10 @@ Substitua os placeholders `[NOME DO PROJETO]`, `[RESUMO]`, `[PÚBLICO]` e demais
 
 ## Como iniciar
 
-1. No GitHub, use **Use this template** e clone o repositório gerado.
-2. Personalize com `specs/optional/bootstrap-personalizar-projeto.md` e abra no Cursor.
-3. Leia: `spec-root.md` → `rules.md` → `flow.md` → `setup.md` → `core/readme.md`.
-4. Preencha os placeholders. Código e scripts de build/run/installer do produto vão para `/core` (`core/scripts/`). Scripts que só servem ao repositório ficam em `scripts/`.
+1. Abra o repositório no Cursor IDE.
+2. Leia: `spec-root.md` → `rules.md` → `flow.md` → `setup.md` → `core/readme.md`.
+3. O conteúdo central de argumentos e teses do projeto vive em `/core`. Referências e pesquisas de apoio vivem em `references/` e `docs/`.
+4. Novas frentes de argumentação ou tarefas devem ser especificadas em `specs/to-do/` usando `spec-template.md`.
 5. Atualize `status.md` e `timeline.md` a cada entrega relevante.
 
 Detalhes de ambiente: ver `setup.md`, `tools-linux.md` e `tools-windows.md`.
@@ -55,4 +53,4 @@ Detalhes de ambiente: ver `setup.md`, `tools-linux.md` e `tools-windows.md`.
 
 ## Estado atual
 
-`status.md` e `timeline.md` começam vazios. O projeto derivado é quem passa a registrar pendências e alterações ali.
+`status.md` e `timeline.md` registram o estado operacional e as alterações do repositório.
