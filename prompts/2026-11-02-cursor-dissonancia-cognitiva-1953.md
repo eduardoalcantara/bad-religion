@@ -29,4 +29,5 @@ Escolha uma opção:
 - Leitura condicional: `spec-root.md`, `flow.md`, `rules.md`, `status.md`, índice de `core/psicologia-e-fisiologia/` e a spec 004 já concluída.
 - Nenhum ensaio novo. `status.md` e `timeline.md` permanecem como estão, porque não houve entrega material.
 - CCIA deste chat: `prompts/2026-11-02-cursor-dissonancia-cognitiva-1953.md`.
+- Registro publicado em https://github.com/eduardoalcantara/bad-religion/pull/1.
 - Próximo passo: responder com o número da opção.
