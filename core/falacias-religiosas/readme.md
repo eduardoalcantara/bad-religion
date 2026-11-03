@@ -27,3 +27,5 @@ Para visão consolidada em tabela comparativa com resumos rápidos, consulte:
 12. [`12-nao-verdadeiro-escoces.md`](12-nao-verdadeiro-escoces.md): *No True Scotsman* e a blindagem moral de atrocidades eclesiásticas.
 13. [`13-falacia-da-composicao-kalam.md`](13-falacia-da-composicao-kalam.md): O Argumento de Kalam, a física do espaço-tempo e a alegação especial.
 14. [`14-apelo-moral-e-emocional.md`](14-apelo-moral-e-emocional.md): *Argumentum ad Passiones*, o consolo ilusório e a origem evolutiva da empatia.
+
+Quando esse estoque cai por inteiro, o que resta ao crente que não muda é a reação à dissonância cognitiva, desenvolvida na seção 2 de [`dissonancia-cognitiva.md`](../psicologia-e-fisiologia/dissonancia-cognitiva.md).

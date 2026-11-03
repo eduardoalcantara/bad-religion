@@ -60,3 +60,25 @@ O texto recusa duas conclusões fáceis. A dor não prova que a crença é falsa
 - Índice, `status.md`, `timeline.md` e `reports/2026-11-02-dissonancia-cognitiva.md` atualizados.
 - Registro em https://github.com/eduardoalcantara/bad-religion/pull/1.
 - Próximo passo: se quiser o cruzamento com Miller–Urey, ou um roteiro de diálogo mais longo, diga qual dos dois.
+
+## Turno 3 — 2026-11-02 21:20 (cursor)
+
+### Prompt
+Ok, coloque em 2 para termos uma relação disso com os crentes que usam todas as falácias e quando todas vão abaixo só lhes restam a reação à dissonância Cognitiva.
+
+### Resposta
+A relação entrou na seção 2 de `core/psicologia-e-fisiologia/dissonancia-cognitiva.md`, com o título "Quando as Falácias Caem, Resta a Reação". O que estava na seção 2 passou para a 3.
+
+O crente que debate não abre pela dor. Abre por uma falácia. As catorze do catálogo em `core/falacias-religiosas/guia-de-falacias-religiosas.md` são o estoque: cada uma adia um fato e empresta uma frase para a pessoa continuar a mesma. Uma cai, outra entra.
+
+Quando as que ele usou foram respondidas e caíram, não nasce outro argumento. Para quem não vai mudar, só resta a reação à dissonância: fuga, ataque a quem trouxe o fato, reescrita do fato sem disfarce de silogismo, ou o pânico de ter de se tornar outro. Quem muda, nesse ponto, toma a outra saída e altera a crença.
+
+O guia e o índice de falácias agora apontam para essa seção 2.
+
+**DoD**
+
+- Modo: documentar.
+- Seções do ensaio renumeradas de 2 a 9.
+- `status.md`, `timeline.md` e `reports/2026-11-02-dissonancia-cognitiva.md` atualizados.
+- Registro em https://github.com/eduardoalcantara/bad-religion/pull/1.
+- Próximo passo: se quiser uma conversa inteira, falácia por falácia até a reação, diga o tema (criação, moral, milagre ou inferno).

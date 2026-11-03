@@ -41,6 +41,7 @@ Repositório configurado e estruturado nas 4 linhas de raciocínio fundamentais 
 
 ## Mudanças recentes
 
+- Seção 2 de `dissonancia-cognitiva.md`: as catorze falácias são o estoque; esgotado o estoque, ao crente que não muda só resta a reação à dissonância. Guia e índice de falácias apontam para essa seção.
 - Spec 006: ensaio `core/psicologia-e-fisiologia/dissonancia-cognitiva.md` com a tese da dor de ver a verdade e da realidade inventada para não mudar; ponte na seção F da casca identitária; índice da seção atualizado.
 - Estruturação modular em `/core` das 4 linhas de raciocínio e redação dos documentos fundacionais e autorais.
 - Modularização do catálogo de falácias religiosas: desagregação em 14 documentos temáticos dedicados e reestruturação do índice geral (`guia-de-falacias-religiosas.md` e `readme.md`).

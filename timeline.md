@@ -4,6 +4,7 @@ Alterações do repositório. Entrada nova no topo.
 
 ## 2026-11-02
 
+- A seção 2 de `core/psicologia-e-fisiologia/dissonancia-cognitiva.md` passou a ligar as catorze falácias religiosas à dissonância: enquanto há falácia de pé, a conversa ainda imita um argumento; quando o estoque cai, ao crente que não muda só resta a reação (fuga, ataque, reescrita do fato, pânico de ter de mudar). O guia e o índice de `core/falacias-religiosas/` apontam para essa seção.
 - Implementada a Spec 006: criação de `core/psicologia-e-fisiologia/dissonancia-cognitiva.md`. A tese registra que a pessoa encontra a verdade na cara, a colisão dói, e ela reescreve os fatos para não ter de mudar. O texto separa a dor (Festinger, 1957) do remendo, narra a profecia de 21 de dezembro de 1954 publicada em *When Prophecy Fails* (1956), o experimento do dólar (1959), e recusa datar a teoria em 1953. A seção F da casca identitária deixa de tratar o efeito tiro pela culatra como lei universal e aponta para o ensaio. Índice da seção, `status.md` e relatório atualizados.
 
 ## 2026-11-01

@@ -69,3 +69,7 @@ Um ensaio em `/core` que um leitor usa para nomear o remendo dos fatos sem confu
 ## Próxima spec
 
 - A definir.
+
+## Acréscimo — 2026-11-02
+
+A seção 2 do ensaio passou a registrar a relação pedida: as catorze falácias são o estoque de argumentos; quando caem, ao crente que não muda só resta a reação à dissonância. As seções seguintes foram renumeradas. O guia e o índice de falácias apontam para essa seção.

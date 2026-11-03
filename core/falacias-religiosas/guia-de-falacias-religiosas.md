@@ -27,3 +27,5 @@ Este índice organiza e direciona para o catálogo individual de desmonte das pr
 
 ## Como Utilizar Este Módulo
 Para aprofundar-se em qualquer debate ou preparar respostas a argumentos específicos, abra o arquivo correspondente listado na tabela acima. Cada documento fornece fundamentação lógica e perguntas socráticas prontas para desmontar a respectiva falácia de forma cirúrgica.
+
+Quando as catorze foram respondidas e não resta argumento, o que sobra no crente que não muda é a reação à dissonância, na seção 2 de [`dissonancia-cognitiva.md`](../psicologia-e-fisiologia/dissonancia-cognitiva.md).

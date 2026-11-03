@@ -28,6 +28,10 @@ O texto separa a dor (Festinger, *A Theory of Cognitive Dissonance*, 1957) da sa
 - Criado: `reports/2026-11-02-dissonancia-cognitiva.md`
 - Alterados: `core/psicologia-e-fisiologia/readme.md`, `core/psicologia-e-fisiologia/a-casca-identitaria-fusao-de-ego-e-o-medo-do-desmonte.md`, `status.md`, `timeline.md`
 
+## Acréscimo no mesmo dia
+
+A seção 2 do ensaio registra a relação com o catálogo de falácias. Cada uma das catorze adia um fato. Quando as que a pessoa usou caem, não nasce outro argumento: para quem não muda, resta a reação à dissonância (fuga, ataque, reescrita do fato, pânico de ter de se tornar outro). `core/falacias-religiosas/readme.md` e `guia-de-falacias-religiosas.md` apontam para essa seção.
+
 ## Validação
 
 - Datas conferidas com o registro publicado de Festinger (1956, 1957, 1959) e com o manual de 1953.

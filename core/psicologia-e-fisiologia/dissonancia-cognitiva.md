@@ -10,7 +10,47 @@ A frase cabe numa linha porque o mecanismo cabe numa linha. Duas cognições bat
 
 ---
 
-## 2. A Dor e o Anestésico
+## 2. Quando as Falácias Caem, Resta a Reação
+
+O crente que debate não abre pela dor. Abre por uma falácia. Enquanto a frase ainda tem forma de argumento, ele não precisa se ver mudando os fatos: a conversa ainda parece razão. O estoque dessas frases, neste repositório, é o das catorze falácias de [`guia-de-falacias-religiosas.md`](../falacias-religiosas/guia-de-falacias-religiosas.md).
+
+Cada uma adia a colisão. O fato chegou. A falácia empresta uma cognição nova para o fato caber e a pessoa permanecer a mesma. É a segunda saída de Festinger, desenvolvida na seção 3, vestida de apologética: acrescentar uma frase até a contradição parecer resolvida.
+
+| Nº | Falácia | O que ela adia |
+|:---:|:---|:---|
+| 01 | Deus das lacunas | A ignorância não é prova de um deus. |
+| 02 | Petição de princípio | O livro não se prova a si mesmo. |
+| 03 | Inversão do ônus | A afirmação extraordinária continua sem prova. |
+| 04 | Causa falsa | A sequência não é a causa. |
+| 05 | Falso dilema | Há mais saídas do que o trilema oferece. |
+| 06 | Teleologia e ajuste fino | O cosmos não foi feito sob medida para nós. |
+| 07 | Apelo à autoridade | Um nome célebre não torna o dogma verdadeiro. |
+| 08 | Apelo à tradição | A idade de uma crença não é evidência. |
+| 09 | Apelo à popularidade | O número de crentes não decide o fato. |
+| 10 | Medo e aposta de Pascal | A ameaça não torna a doutrina verdadeira. |
+| 11 | Espantalho | O dado real foi trocado por uma caricatura fácil de vencer. |
+| 12 | Não verdadeiro escocês | O mal feito em nome da fé é expulso do grupo por definição. |
+| 13 | Composição e Kalam | O todo não herda a causa inventada para as partes. |
+| 14 | Apelo moral e emocional | Consolo e indignação não alteram o fato. |
+
+A ordem da tabela não é a ordem da conversa. É o estoque. Uma cai. Outra entra. O eu atravessa as catorze sem se corrigir.
+
+Quando as catorze foram respondidas e caíram, o estoque acabou. Não aparece um décimo quinto argumento. Para o crente que não vai mudar, só resta a reação à dissonância. A conversa deixa de ser debate e passa a ser manejo da dor:
+
+1. **Fuga.** "Religião não se discute."
+2. **Ataque a quem trouxe o fato.** "Você é arrogante."
+3. **Reescrita do fato**, agora sem a fantasia de que ainda há um argumento. A frase nova não explica o mundo. Ela substitui o mundo.
+4. **O pânico de ter de se tornar outro**, se as três anteriores falharem.
+
+Essas quatro fases estão na seção 4 de [`a-casca-identitaria-fusao-de-ego-e-o-medo-do-desmonte.md`](a-casca-identitaria-fusao-de-ego-e-o-medo-do-desmonte.md). Os remendos religiosos correntes, já sem disfarce de silogismo, estão na seção 7 deste texto.
+
+A relação é esta. A falácia é o anestésico que ainda imita uma razão. A reação à dissonância é o que sobra quando todas as razões emprestadas foram ao chão e a pessoa continua a mesma.
+
+Nem toda conversa percorre as catorze. O ponto é de estoque, não de roteiro obrigatório. Esgotado o estoque que a pessoa de fato usou, o próximo movimento de quem não muda já não é argumento. É reação. Quem muda, nesse ponto, toma a outra saída e altera a crença. A reação é o resto de quem recusou essa saída.
+
+---
+
+## 3. A Dor e o Anestésico
 
 Leon Festinger publicou a formulação em *A Theory of Cognitive Dissonance* (Row, Peterson and Company, 1957). Dissonância, nesse livro, não é a mentira já pronta. É o incômodo de sustentar ao mesmo tempo duas cognições que não cabem juntas. Cognição, aqui, é crença, valor, ou o simples conhecimento do que a pessoa fez.
 
@@ -35,7 +75,7 @@ Elliot Aronson, anos depois, apertou o ponto que a tese já carrega. A dissonân
 
 ---
 
-## 3. As Datas
+## 4. As Datas
 
 | Ano | O que aconteceu |
 |---|---|
@@ -49,7 +89,7 @@ A teoria que este texto usa é a de 1957, com o caso religioso de 1954 narrado e
 
 ---
 
-## 4. O Culto que Reescreveu o Fim do Mundo
+## 5. O Culto que Reescreveu o Fim do Mundo
 
 Dorothy Martin, chamada Marian Keech no livro, anunciou que o mundo acabaria em 21 de dezembro de 1954 e que os crentes seriam recolhidos. O prazo passou. Os discos não vieram. A verdade estava na cara: havia uma manhã seguinte.
 
@@ -69,7 +109,7 @@ Sem o grupo, a realidade particular desaba. Com o grupo, ela se estabiliza. O da
 
 ---
 
-## 5. O Dólar que Reescreveu a Tarefa
+## 6. O Dólar que Reescreveu a Tarefa
 
 Em 1959, Festinger e Carlsmith pediram a voluntários que executassem uma tarefa entediante e, em seguida, dissessem à pessoa seguinte que a tarefa era interessante. Uma parte recebeu vinte dólares. Outra recebeu um dólar.
 
@@ -79,7 +119,7 @@ Não é religião. É o mesmo motor. A pessoa altera o relato da realidade para 
 
 ---
 
-## 6. Como a Fé Usa Essa Saída
+## 7. Como a Fé Usa Essa Saída
 
 Na manutenção da crença religiosa, o remendo tem formas reconhecíveis. Cada uma é uma cognição nova cujo único trabalho é fazer o dado caber sem que a pessoa mude:
 
@@ -95,7 +135,7 @@ Isso conversa com a fé herdada por acidente de nascimento, em [`fe-por-gps-acid
 
 ---
 
-## 7. O que Este Texto Não Afirma
+## 8. O que Este Texto Não Afirma
 
 - **Não afirma que dissonância é burrice.** É um motivo. Pessoas inteligentes remendam com mais habilidade. O remendo bem-feito se parece com teologia.
 - **Não afirma o efeito tiro pela culatra como lei.** O caso de 1954 mostra fervor aumentado sob as cinco condições acima. A literatura posterior não sustentou a versão popular de que "a evidência sempre endurece a crença". O que basta para o argumento é mais sóbrio: diante do dado que ameaça o eu, a pessoa frequentemente deixa de atualizar a crença e fabrica uma cognição que a protege.
@@ -103,10 +143,11 @@ Isso conversa com a fé herdada por acidente de nascimento, em [`fe-por-gps-acid
 
 ---
 
-## 8. Uso no Diálogo
+## 9. Uso no Diálogo
 
-Chamar a pessoa de dissonante na cara só entrega mais um fato para ela remendar: "o ateu é arrogante". O movimento útil é apontar o remendo, com calma:
+Chamar a pessoa de dissonante na cara só entrega mais um fato para ela remendar: "o ateu é arrogante". O movimento útil é apontar o remendo, com calma, e nomear em que ponto do estoque a conversa está (seção 2):
 
+- Qual falácia acabou de cair, e o que entrou no lugar: outra falácia, ou já a reação?
 - Qual fato entrou ontem, e qual frase nova apareceu hoje para ele caber?
 - Se a crença fosse indiferente a você, por que o mundo inteiro precisa mudar de significado e você não muda nada?
 - O que sobra da crença se todo desmentido ganha um remendo e nenhum desmentido pode custar a crença?
