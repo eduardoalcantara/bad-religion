@@ -31,3 +31,32 @@ Escolha uma opção:
 - CCIA deste chat: `prompts/2026-11-02-cursor-dissonancia-cognitiva-1953.md`.
 - Registro publicado em https://github.com/eduardoalcantara/bad-religion/pull/1.
 - Próximo passo: responder com o número da opção.
+
+## Turno 2 — 2026-11-02 21:18 (cursor)
+
+### Prompt
+Dissonância Cognitiva é quando alguém encontra a verdade na cara e dói tanto que eles continuam mudando os fatos e criam sua própria realidade pra não ter que mudar.
+
+### Resposta
+A tese ficou registrada em `core/psicologia-e-fisiologia/dissonancia-cognitiva.md`.
+
+Dissonância, no recorte que você deu, é isto: a pessoa encontra a verdade na cara, dói, e ela segue mudando os fatos até criar uma realidade em que não precisa mudar.
+
+O ensaio guarda essa frase e separa duas coisas que a teoria de Festinger separa. A dor é a dissonância: duas cognições que não cabem juntas. Reescrever os fatos é uma das saídas, a que preserva a pessoa intacta. Existe a outra saída, que é mudar de fato. Ela fica mais cara quando a crença está colada no eu, na tribo e nos anos já gastos.
+
+As datas no texto:
+
+- 1957: *A Theory of Cognitive Dissonance*.
+- 1956: *When Prophecy Fails*, sobre a profecia que falhou em 21 de dezembro de 1954. O grupo não se desfez. Inventou que a fé deles tinha salvado o mundo e saiu para convencer os outros.
+- 1959: o experimento do dólar. Quem mentiu por quase nada passou a lembrar a tarefa como mais interessante.
+- 1953 não data a teoria. Nesse ano Festinger coeditou um manual de método. Neste repositório, 1953 já é o experimento de Miller–Urey.
+
+O texto recusa duas conclusões fáceis. A dor não prova que a crença é falsa. O efeito tiro pela culatra não é lei. A seção F da casca identitária foi ajustada para não afirmar essa lei, e aponta para o ensaio.
+
+**DoD**
+
+- Modo: documentar.
+- Spec 006 em `specs/done/006-dissonancia-cognitiva.md`.
+- Índice, `status.md`, `timeline.md` e `reports/2026-11-02-dissonancia-cognitiva.md` atualizados.
+- Registro em https://github.com/eduardoalcantara/bad-religion/pull/1.
+- Próximo passo: se quiser o cruzamento com Miller–Urey, ou um roteiro de diálogo mais longo, diga qual dos dois.
