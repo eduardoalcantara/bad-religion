@@ -61,8 +61,8 @@ Em 2016, um estudo neurocientífico divisor de águas conduzido por Jonas Kaplan
 **A conclusão científica**: Para o cérebro primitivo do primata humano, **ter uma crença identitária refutada dói exatamente como ver um predador faminto se aproximando na selva**. O cérebro não distingue entre uma ameaça ao seu corpo físico e uma ameaça à sua autoimagem construída.
 
 ### F. Dissonância Cognitiva e o Efeito Tiro pela Culatra (*Backfire Effect*)
-- **Dissonância Cognitiva (Leon Festinger)**: O sofrimento psíquico insuportável quando a mente é exposta a duas realidades que colidem frontalmente (*"Eu sou uma pessoa sensata"* vs *"Passei décadas ajoelhado diante de uma ilusão infantil"*).
-- **O Efeito Tiro pela Culatra (*Backfire Effect*)**: Para cessar a dor da dissonância sem admitir a tolice do passado, o indivíduo não muda de ideia; ele se agarra ao dogma com uma fúria ainda mais cega. A evidência atua como calor sobre o barro: endurece a casca em vez de dissolvê-la.
+- **Dissonância Cognitiva (Leon Festinger)**: O sofrimento psíquico insuportável quando a mente é exposta a duas realidades que colidem frontalmente (*"Eu sou uma pessoa sensata"* vs *"Passei décadas ajoelhado diante de uma ilusão infantil"*). A saída que preserva a casca é reescrever o fato para a pessoa continuar a mesma. O desenvolvimento, com as datas de 1954, 1956, 1957 e 1959, está em [`dissonancia-cognitiva.md`](dissonancia-cognitiva.md).
+- **O Efeito Tiro pela Culatra (*Backfire Effect*)**: No caso de *When Prophecy Fails* (1956), sob condições estreitas, o desmentido aumentou o fervor. Tomado como lei universal ("a evidência sempre endurece a crença"), o efeito não se sustenta. O que se sustenta é o remendo: a pessoa fabrica uma cognição nova para não mudar a si.
 
 ---
 
